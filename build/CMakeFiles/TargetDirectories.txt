@@ -1,3 +1,0 @@
-C:/CODE/C++/SDLShooter/build/CMakeFiles/SDLShooter-Windows.dir
-C:/CODE/C++/SDLShooter/build/CMakeFiles/ALL_BUILD.dir
-C:/CODE/C++/SDLShooter/build/CMakeFiles/ZERO_CHECK.dir
