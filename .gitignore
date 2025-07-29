@@ -15,6 +15,7 @@ Makefile
 *.dll
 *.so
 *.dylib
+*.pdb
 
 # Object files
 *.o
@@ -24,4 +25,4 @@ Makefile
 *.log
 *.tmp
 *.swp
-*.bak
+*.bak*.pdb
