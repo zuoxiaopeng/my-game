@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\main.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\main.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/main.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\Game.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\Game.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/Game.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\Scene.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\Scene.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/Scene.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\SceneMain.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\SceneMain.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/SceneMain.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/SceneMain.cpp.obj"
+},
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\SceneTitle.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\SceneTitle.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/SceneTitle.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/SceneTitle.cpp.obj"
+},
+{
+  "directory": "C:/CODE/C++/SDLShooter/build",
+  "command": "C:\\CODE\\mingw64\\bin\\g++.exe  @CMakeFiles/SDLShooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\SDLShooter-Windows.dir\\src\\SceneEnd.cpp.obj -c C:\\CODE\\C++\\SDLShooter\\src\\SceneEnd.cpp",
+  "file": "C:/CODE/C++/SDLShooter/src/SceneEnd.cpp",
+  "output": "CMakeFiles/SDLShooter-Windows.dir/src/SceneEnd.cpp.obj"
+}
+]
