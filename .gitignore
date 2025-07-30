@@ -26,3 +26,4 @@ Makefile
 *.tmp
 *.swp
 *.bak*.pdb
+.dat
