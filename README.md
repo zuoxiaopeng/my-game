@@ -4,10 +4,12 @@
 **SDLShooter**  is a 2D space shooter game developed in C++ using the SDL2 library. This project is based on a tutorial series by  [Ziyu Shen (WispSnow)](https://github.com/WispSnow).
 
 ## 📌 Project Details
-<img width="602" height="839" alt="image" src="https://github.com/user-attachments/assets/e4765b97-6cf7-4fd6-b352-63a54fb57b4c" />
-<img width="602" height="839" alt="image" src="https://github.com/user-attachments/assets/cf5570fd-99a1-415d-857f-8bf50e15b1b6" />
-<img width="602" height="839" alt="image" src="https://github.com/user-attachments/assets/bc3982dc-2b6b-4797-9335-dc96243c56ae" />
-<img width="602" height="839" alt="image" src="https://github.com/user-attachments/assets/59146fdd-fcf4-4541-ba3e-af3434c750ed" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <img src="URL1" alt="image" style="width: 100%; height: auto; max-width: 300px;" />
+  <img src="URL2" alt="image" style="width: 100%; height: auto; max-width: 300px;" />
+  <img src="URL3" alt="image" style="width: 100%; height: auto; max-width: 300px;" />
+  <img src="URL4" alt="image" style="width: 100%; height: auto; max-width: 300px;" />
+</div>
 
 -   **Language**: C++
     
